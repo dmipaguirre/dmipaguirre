@@ -8,7 +8,7 @@ Soy estudiante de Ingeniería de Sistemas, me gusta el mundo del desarrollo y to
 - HTML, CSS
 
 ## 📫 Contáctame:
-- [LinkedIn](https://www.linkedin.com/in/dmpaeza/)
+- <a href="https://www.linkedin.com/in/dmpaeza/" target="_blank">LinkedIn</a>
 - [Correo electrónico](mailto:dmiguel.paez@gmail.com)
 
 
