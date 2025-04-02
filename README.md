@@ -8,12 +8,9 @@ Soy estudiante de Ingeniería de Sistemas, me gusta el mundo del desarrollo y to
 - HTML, CSS
 
 ## 📫 Contáctame:
-- [LinkedIn](https://www.linkedin.com/in/miguel)
-- [Correo electrónico](mailto:tuemail@ejemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/dmpaeza/)
+- [Correo electrónico](mailto:dmiguel.paez@gmail.com)
 
-## 📂 Proyectos destacados:
-- [Proyecto 1](https://github.com/miguel/proyecto1)
-- [Proyecto 2](https://github.com/miguel/proyecto2)
 
 ¡Gracias por visitar mi perfil! 😄
 
