@@ -14,4 +14,7 @@ Soy estudiante de Ingeniería de Sistemas, me gusta el mundo del desarrollo y to
 
 ¡Gracias por visitar mi perfil! 😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmipaguirre&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dmipaguirre&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+</p>
+
