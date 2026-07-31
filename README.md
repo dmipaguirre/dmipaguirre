@@ -1,64 +1,65 @@
 <div align="center">
 
-# ¡Hola! Soy Miguel 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=whoami%3F%20miguel&fontSize=45&fontColor=00ff9d&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### Estudiante de Ingeniería de Sistemas | Desarrollador Web
+</div>
 
-Apasionado por la tecnología, la programación, la robótica y la ciberseguridad.
-Me gusta aprender nuevas herramientas y construir soluciones que combinan creatividad y funcionalidad.
+<div align="center">
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=600&lines=Futuro+Ingeniero+de+Sistemas;Ingeniero+IA;Rompiendo+cosas+para+entender+como+funcionan;while(true)+%7B+aprender()%3B+%7D" alt="Typing SVG" />
+</div>
+
+---
+
+> Aunque la IA ha cambiado el paradigma del mundo del desarrollo, aún tengo en el fondo
+> un alto interés por la tecnología: desde la programación, la creación de sitios web,
+> videojuegos y la robótica, además de lo que se construye con manos y mente.
+
+---
+
+### 🖥️ `stack --verbose`
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=BC52EE)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
 ---
 
-### 🔧 Stack Tecnológico
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
-
-**Lenguajes**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**En camino**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+### 📡 `cat interests.log`
 
 ---
 
-### 💡 Áreas de interés
-
-- 🌐 Desarrollo web y diseño UI/UX
-- 🤖 Robótica y automatización
-- 🔐 Ciberseguridad y buenas prácticas de desarrollo
-
----
-
-### 📊 Estadísticas de GitHub
+### 📊 `stats --live`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmpaeza&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmpaeza&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dmpaeza&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=dmpaeza&hide_border=true&background=0D1117&stroke=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" alt="GitHub Streak" width="48%"/>
 </div>
 
 ---
 
-### 📫 Contacto
+### 🐍 `contribution_snake.exe`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmpaeza/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmiguel.paez@gmail.com)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dmpaeza/dmpaeza/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 
 ---
 
 <div align="center">
 
-> *"La tecnología es mejor cuando une a las personas."* — Matt Mullenweg
+`> exit`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
 </div>
