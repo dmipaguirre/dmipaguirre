@@ -15,7 +15,7 @@ $ ssh miguel@futuro-ingeniero
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=600&lines=Futuro+Ingeniero+de+Sistemas;Ingeniero+IA;Rompiendo+cosas+para+entender+como+funcionan;while(true)+%7B+aprender()%3B+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=600&lines=Futuro+Ingeniero+de+Sistemas;Ingeniero+IA;Rompiendo+cosas+para+entender+como+funcionan;while(true)+%7B+aprender()%CD%BE+%7D" alt="Typing SVG" />
 </div>
 
 ---
