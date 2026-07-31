@@ -55,7 +55,6 @@ $ ssh miguel@futuro-ingeniero
 ### 📊 `stats --live`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmipaguirre&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
   <img src="https://streak-stats.demolab.com?user=dmipaguirre&hide_border=true&background=0D1117&stroke=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" alt="GitHub Streak" width="48%"/>
 </div>
 
