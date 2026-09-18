@@ -20,17 +20,6 @@ $ ssh miguel@futuro-ingeniero
 
 ---
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmipaguirre&layout=compact&theme=dark&hide_border=true"
-  width="45%"
-/>
-
-</div>
-
----
-
 ### 🖥️ `stack --verbose`
 
 <div align="center">
