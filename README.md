@@ -57,7 +57,10 @@ $ ssh miguel@futuro-ingeniero
 ### 🐍 `contribution_snake.exe`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dmipaguirre/dmipaguirre/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/dmipaguirre/dmipaguirre/output/github-contribution-grid-snake.svg"
+    alt="snake animation"
+  />
 </div>
 
 ---
