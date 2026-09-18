@@ -20,9 +20,14 @@ $ ssh miguel@futuro-ingeniero
 
 ---
 
-> Aunque la IA ha cambiado el paradigma del mundo del desarrollo, aún tengo en el fondo
-> un alto interés por la tecnología: desde la programación, la creación de sitios web,
-> videojuegos y la robótica, además de lo que se construye con manos y mente.
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmipaguirre&layout=compact&theme=dark&hide_border=true"
+  width="45%"
+/>
+
+</div>
 
 ---
 
